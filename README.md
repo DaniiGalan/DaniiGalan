@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy Danii
 
-<!--
-**DaniiGalan/DaniiGalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico Superior en Desarrollo de Aplicaciones Web  
+🔹 Me especializo en backend, pero también me interesa el frontend.  
+🔹 Me motiva construir software que realmente haga la diferencia.
 
-Here are some ideas to get you started:
+🎯 **"El problema no es el problema, el problema es tu actitud frente al problema."** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+## 📂 Proyectos Destacados  
+🔹 *(Aquí puedes añadir enlaces a tus proyectos más importantes.)*
+
+## 🌐 Contacto  
+🔗 [LinkedIn](https://www.linkedin.com/in/danielgalancedres/)  
+🔗 *(Aquí puedes añadir tu portafolio o sitio web más adelante.)*
+
+## 📊 Estadísticas de GitHub  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danielgalancedres&show_icons=true&theme=dark)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgalancedres&layout=compact&theme=dark)
+
+---
+
+💡 Siempre buscando la mejor solución y aprendiendo en el proceso.
