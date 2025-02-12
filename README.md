@@ -2,7 +2,6 @@
 
 💻 Técnico Superior en Desarrollo de Aplicaciones Web  
 🔹 Me especializo en backend, pero también me interesa el frontend.  
-🔹 Me motiva construir software que realmente haga la diferencia.
 
 🎯 **"El problema no es el problema, el problema es tu actitud frente al problema."**  
 
