@@ -28,9 +28,10 @@
 <br>
 
 ## 📊 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DaniiGalan&show_icons=true&theme=dark)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DaniiGalan&show_icons=true&theme=dark)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniiGalan&layout=compact&theme=dark)
 
 ---
 
-💡 *Siempre buscando la mejor solución y aprendiendo en el proceso.* 🚀
+💡 **Siempre buscando la mejor solución y aprendiendo en el proceso.** 🚀
