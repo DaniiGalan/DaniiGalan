@@ -11,16 +11,18 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
+<!-- 
 ## 📂 Proyectos Destacados  
 🔹 *(Aquí puedes añadir enlaces a tus proyectos más importantes.)*
+-->
 
 ## 🌐 Contacto  
-🔗 [LinkedIn](https://www.linkedin.com/in/danielgalancedres/)  
-🔗 *(Aquí puedes añadir tu portafolio o sitio web más adelante.)*
+🔗 [LinkedIn](https://www.linkedin.com/in/danielgalancedres/)
+<!-- 🔗 *(Aquí puedes añadir tu portafolio o sitio web más adelante.)* -->
 
 ## 📊 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=danielgalancedres&show_icons=true&theme=dark)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgalancedres&layout=compact&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DaniiGalan&show_icons=true&theme=dark)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniiGalan&layout=compact&theme=dark)
 
 ---
 
