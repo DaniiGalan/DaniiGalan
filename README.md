@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Danii
 
 💻 Técnico Superior en Desarrollo de Aplicaciones Web  
-🔹 Me quiero especializar en backend, pero también tendremos que tocar el frontend. :smirk:
 
 🎯 **"El problema no es el problema, el problema es tu actitud frente al problema."**  
 
